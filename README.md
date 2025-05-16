@@ -1,4 +1,4 @@
-# Project calc
+# PROJECT CALC
 ## Description
 Proyecto para aprender a programar una calculadora con operaciones basicas suma, resta, multiplicacion y division.
 ### Technologies
@@ -6,5 +6,5 @@ Proyecto para aprender a programar una calculadora con operaciones basicas suma,
 - Css
 - JavaScript
 ### Autores
-Lina Lizeth Cruz Santamaria
+liinadev
 Thelp SAS
